@@ -1,3 +1,3 @@
 # upgraded-broccoli
 
-For some simple projects.
+Some exercises from exercism.io
